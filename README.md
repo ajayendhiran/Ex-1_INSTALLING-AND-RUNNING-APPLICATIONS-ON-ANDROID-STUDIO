@@ -85,8 +85,7 @@ An Android Virtual Device is used to test and run the application without requir
 
 The application displays the heading **STUDENT DETAILS** and a button. When the button is clicked, the following details appear:
 
-- **Name:** RESHMITHAA B
-- **Register Number:** 212224220080
+
 
 The button text changes to **Details Revealed**.
 <img width="1912" height="1131" alt="image" src="https://github.com/user-attachments/assets/4fc056c6-e3c3-4b34-b4b1-39f5ed784366" />
